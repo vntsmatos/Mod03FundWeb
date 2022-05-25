@@ -2,8 +2,8 @@
 Para inserção de atividades módulo - 03 Fundamentos Web
 #Views
 
-[Primeiro site html puro](https://htmlpreview.github.io/?https://raw.githubusercontent.com/vntsmatos/Mod03FundWeb/main/Aula01/index.html)    
-[Segundo site html - ideia de curriculo](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula02/index.html)    
-[Terceiro site html - Revisando conceitos Aula01](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula03/index.html)   
-[Quarto site html - Revisando conceitos...](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula04/index.html)    
-
+[1º site html puro](https://htmlpreview.github.io/?https://raw.githubusercontent.com/vntsmatos/Mod03FundWeb/main/Aula01/index.html)    
+[2º site html - ideia de curriculo](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula02/index.html)    
+[3º site html - Revisando conceitos Aula01](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula03/index.html)   
+[4º site html - Revisando conceitos...](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula04/index.html)  
+[5º site html - Prática formatacao|atributos|links|IMG e Meta Tags](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula05/index.html)
