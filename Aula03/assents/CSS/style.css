@@ -10,5 +10,20 @@
     align-items: center;
 }
 
+#menu li {
+    display: inline;
+    padding: 20px; /*Padding - Serve para espaçamento interno do conteúdo*/
+    text-decoration: none; /* Para mudar a caracteristica dos links menu&contato*/
+    font-size: 20px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;    
+}
+
+#menu li a:hover { /* HOVER - É quando meu mouse estiver em cima ele muda a cor!*/
+    color: blueviolet;
+}
 
 /*Estilos da página contato.html*/
