@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aprendendo sobre HTML e CSS"> <!--Descrição-->
+    <meta name="author" content="Vinicius Santos Matos"> <!--Autor-->
+    <meta http-equiv="refresh" content="10"><!--Atualiza página a cada 10 segundos-->
+</head>
+<body>
+    <form>
+        Nome: <input type="text" name="nome"><br /><br />
+        Sobrenome: <input type="text" name="sobrenome"><br /><br />
+        E-mail: <input type="text" name="E-mail"><br /><br />
+        <input type="radio" name="opcoes" value="html"> HTML <!--Radio button-->
+        <input type="radio" name="opcoes" value="css"> CSS <!--Radio button-->
+        <!--Radio button | São chamados de botões opção e são usados quando você deseja que o usuário selecione apenas uma opção de um conjunto predeterminado de opções. É importante notar que os botões de cima são do tipo texto. NÃO ESQUECE!-->
+        
+        <!--Checkbox-->
+        <input type="checkbox" name="technology" value="HTML"> Aprendi HTML
+        <input type="checkbox" name="technology" value="CSS"> Aprendi CSS
+        <!--As caixas de seleção são semelhantes aos botões de opção, porém permitem que o usuário faça várias seleções. Devem ser usadas quando deseja perimir que os usuários façam mais de uma seleção. A difereça entre RADIO & CHECKBOX são as permissões-->
+    </form>
+
+    <h2>Veja a lista de seleção</h2>
+    <form>
+        <select name="opcoes" style="font-size: 20px">
+            <option value="" selected>Selecione uma opção: </option><!--primeiro option vazio, observa a diferença com os debaixo -->
+            <option value="html">HTML</option>
+            <option value="css">CSS</option>
+            <option value="javascript">JavaScript</option>
+            <option value="jquery">jQuery</option>
+            <option value="react">React</option>
+        </select>
+    </form>
+
+    <h3>Veja o campo de Textarea</h3>
+    <form>
+        <textarea name="msg" cols="30" rows="10">
+            texto texto texto texto...
+            "Para conhecermos os amigos é necessário passar pelo sucesso e pela desgraça. No sucesso, verificamos a quantidade e, na desgraça, a qualidade". 🤯✍🏿🌻 | Confúcio
+        </textarea>
+    </form>
+
+    <h4>AÇÃO DE FORMULÁRIO</h4>
+    <p> Ação de formulário - Geralmente, quando um  usuário envia o formulário, o sistema deve fazer alguma ação com os dados. É ai que entra a página de ação. A página de ação é a página para a qual o formulário é submetido</p>
+    <p>Esta página pode conter scripts avançados ou programação que insere os dados do formulário em um banco de dados ou envia para um administrador por e-mail</p>
+    <img src="assents/UsoMethod.png" width="400" alt="Uso method">
+    <form action="envia-dados.php" method="post">
+        Nome: <input type="text" name="nome" />
+        Sobrenome: <input type="text" name="sobrenome" />
+        <input type="submit" value="submit" />
+    </form>
+</body>
+</html>
