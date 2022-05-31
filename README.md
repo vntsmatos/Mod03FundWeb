@@ -10,5 +10,5 @@ Para inserção de atividades módulo - 03 Fundamentos Web
 [6º site html - Formulário básico 01](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Formulario01/index.html)  
 [7º site html - Formulário básico 02](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Formulario02/form.html)    
 [8º site html - Tabela 01](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Tabelas01/tabela.html)   
-[9º site html - Tabela Layout]
+[9º site html - Tabela Layout](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Tabelas02/tabela-layout.html)   
 [10º site html - Retomando conceitos CSS]
