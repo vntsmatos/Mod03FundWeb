@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabelas</title>
+    <title>formulário</title>
 </head>
 <body style="font-size: 20px">
     <!--Cellpadding dá espaço dentro da coluna-->
     <!--Cellspacing dá espaço entre as colunas-->
     <!--Border coloca uma borda na tabela e colunas-->
+    <h1>TABELA</h1>
     <table cellpadding="5" cellspacing="5" border="1">
         <tr>
             <th>Nome</th>
@@ -27,26 +28,36 @@
             <td>Rua da paz, 44</td>
         </tr>
     </table>  
-    <hr>
+    <h1>MESCLA DUAS COLUNAS:</h1>
+    
     <table cellpadding="10" cellspacing="0" border="1">
         <tr>
             <!--Podemos usar o atributo 'colspan' para mesclar várias colunas com seu valor correspondente. No exemplo debaixo você vai ver que o titulo 'Telefone' ocupa(mesclando) dois espaços da tabela-->
-            <th colspan="2">Telefones</th>
+            <th colspan="4">Telefones</th>
+        </tr>
+        <tr>
+            <td>91 94444-5555</td>
+            <td>91 94444-5555</td>
         </tr>
         <tr>
             <td>91 94444-5555</td>
             <td>91 94444-5555</td>
         </tr>
     </table>  
-    <hr>
+    
+    <h1>MESCLA DUAS LINHAS:</h1>
     <table cellpadding="10" cellspacing="0" border="1">
         <tr>
             <!--Podemos usar o atributo 'rowspan' para mesclar várias linhas com seu valor correspondente-->
             <th rowspan="4">Telefones</th>
             <td>91 94444-5555</td>
             <td>91 94444-5555</td>
+            <td>91 94444-5555</td>
+            <td>91 94444-5555</td>
         </tr>
         <tr>
+            <td>91 94444-5555</td>
+            <td>91 94444-5555</td>
             <td>91 94444-5555</td>
             <td>91 94444-5555</td>
         </tr>
