@@ -9,6 +9,6 @@ Para inserção de atividades módulo - 03 Fundamentos Web
 [5º site html - Prática formatacao|atributos|links|IMG e Meta Tags](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula05/index.html)     
 [6º site html - Formulário básico 01](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Formulario01/index.html)  
 [7º site html - Formulário básico 02](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Formulario02/form.html)    
-[8º site html - em elaboração...]
-[9º site html - em elaboração...]
-[10º site html - em elaboração...]
+[8º site html - Tabela 01](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Tabelas01/tabela.html)   
+[9º site html - Tabela Layout]
+[10º site html - Retomando conceitos CSS]
