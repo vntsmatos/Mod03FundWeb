@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*Para tirar o espaço das colunas na página do navegador. Numa linguagem mais grosseira, quero 'zerar' as margens padding do navegador. */
+}
+
+.row {
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.row div {
+    background: brown;
+    height: 80px;   
+    float: left;
+}
+
+/* Linha 01 */
+.linha1 .coluna{
+    width: 100%;
+}
+
+/* Linha 02 */
+.linha2 .coluna{
+    width: 48%;
+}
+.linha2 .coluna:last-child{ 
+    /*Quando uso last-child estou dizendo que quero a ultima coluna para a direita */
+    float: right;
+}
+
+/* Linha 03 */
+.linha3 .coluna{
+    width: 30.66%;
+    margin-right: 4%;
+}
+.linha3 .coluna:last-child{
+    margin-right: 0;
+}
+
+/* Linha 04 */
+.linha4 .coluna{
+    width: 22%;
+    margin-right: 4%;
+}
+.linha4 .coluna:last-child{
+    margin-right: 0;
+}
+
+/* Linha 05 */
+.linha5 .coluna{
+    width: 16.8%;
+    margin-right: 4%;
+}
+.linha5 .coluna:last-child{
+    margin-right: 0;
+}
