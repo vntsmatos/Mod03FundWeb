@@ -1,0 +1,8 @@
+.caixa {
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+    font: 16px Arial, sans-serif;
+    border: 4px solid #ccc;
+    overflow: auto;
+}
