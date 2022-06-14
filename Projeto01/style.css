@@ -1,33 +1,65 @@
 /*Reset
 -------------------------------*/
-* {
+*{
     margin: 0;
     padding: 0;
 }
 
-body {
+body{
     font-family: Arial, Helvetica, sans-serif;
     color: #959595;
 }
 
-a {
+a{
     text-decoration: none;
+    color: #f71d1d;
+}
+a:houver{
     color: #900;
 }
 
-ul {
+ul{
     list-style: none;
 }
 
 /*Geral
 -------------------------------*/
-.row {
+.row{
     width: 100%;
     float: left;
     margin-bottom: 50px;
 }
 
-.content {
+.content{
     width: 1024px;
     margin: 0 auto;
+}
+
+/*Header
+-------------------------------*/
+.header{
+    padding: 10px o;
+}
+.header-logo{
+    float: left;
+}
+.header-logo h1 a{
+    color:#959595;
+}
+.header-logo h1 a span.html{
+    color: #016fba;
+}
+.header-logo h1 a span.css{
+    color: #e54d26;
+}
+
+.header-menu{
+    float: right;
+    padding: 9px 0;
+
+}
+.header-menu ul li{
+    display: inline-block;
+    margin-left: 20px;
+    
 }
