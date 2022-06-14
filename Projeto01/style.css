@@ -22,3 +22,8 @@ a {
     float: left;
     margin-bottom: 50px;
 }
+
+.content {
+    width: 1024px;
+    margin: 0 auto;
+}
