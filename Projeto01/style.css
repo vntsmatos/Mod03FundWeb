@@ -22,6 +22,10 @@ ul{
     list-style: none;
 }
 
+h1, h2{
+    color: darkred;
+}
+
 /*Geral
 -------------------------------*/
 .row{
@@ -38,7 +42,7 @@ ul{
 /*Header
 -------------------------------*/
 .header{
-    padding: 10px o;
+    padding: 10px 0;
 }
 .header-logo{
     float: left;
@@ -50,8 +54,9 @@ ul{
     color: #016fba;
 }
 .header-logo h1 a span.css{
-    color: #e54d26;
+    color: #afe526;
 }
+
 
 .header-menu{
     float: right;
@@ -61,5 +66,18 @@ ul{
 .header-menu ul li{
     display: inline-block;
     margin-left: 20px;
-    
+}
+
+/*Bem-vindo
+-------------------------------*/
+.bem-vindo{
+    background-color: #ff6969;
+    padding: 20px 0;
+    text-align: center;
+}
+.bem-vindo  .content{
+    width: 620px;
+}
+.bem-vindo .content h1{
+    color: #fff;
 }
