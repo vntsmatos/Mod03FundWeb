@@ -98,7 +98,7 @@ h1, h2{
 .main-menu ul li{
     margin-top: 20px;
 }
-
+/*main-conteudo*/
 .main-conteudo{
     float: right;
     width: 840px;
@@ -107,6 +107,55 @@ h1, h2{
     font-size: 20px;
     margin-bottom: 10px;
 }
+.main-conteudo h1 a{
+    color: darkred;
+}
 .main-conteudo p{
     margin-bottom: 30px;
+}
+.main-conteudo p a{
+    color: #959595;
+}
+.main-conteudo h1 a:houver, .main-conteudo p a:houver{
+    text-decoration: underline;
+}
+
+/*Útimos artigos
+-------------------------------*/
+.artigos{
+    background: #faafaf;
+    padding: 30px 0;
+}
+.artigos-title{
+    font-size: 30px;
+    color: #f71d1d;
+    margin: 0 0 15px 0;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #f71d1d;
+}
+.artigos-coluna{
+
+    float: left;
+    text-align: justify;
+    width: 30.66%;
+}
+.artigos-coluna:nth-of-type(2){
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.artigos-coluna h2{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.artigos-coluna a{
+    color: #900;
+}
+.artigos-coluna a:houver{
+    text-decoration: underline;
+}
+/*Footer
+-------------------------------*/
+.footer{
+    text-align: center;
+    padding: 20px 0;
 }
