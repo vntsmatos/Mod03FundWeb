@@ -31,7 +31,6 @@ h1, h2{
 .row{
     width: 100%;
     float: left;
-    margin-bottom: 50px;
 }
 
 .content{
@@ -80,4 +79,34 @@ h1, h2{
 }
 .bem-vindo .content h1{
     color: #fff;
+}
+
+/*Main
+-------------------------------*/
+.main{
+    padding: 30px 0;
+}
+.main-menu{
+    float: left;
+    width: 160px;
+    font-size: 18px;
+
+}
+.main-menu h1{
+    font-size: 20px;
+}
+.main-menu ul li{
+    margin-top: 20px;
+}
+
+.main-conteudo{
+    float: right;
+    width: 840px;
+}
+.main-conteudo h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.main-conteudo p{
+    margin-bottom: 30px;
 }
