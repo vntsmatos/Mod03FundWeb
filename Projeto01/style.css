@@ -116,7 +116,7 @@ h1, h2{
 .main-conteudo p a{
     color: #959595;
 }
-.main-conteudo h1 a:houver, .main-conteudo p a:houver{
+.main-conteudo h1 a:hover, .main-conteudo p a:hover{
     text-decoration: underline;
 }
 
@@ -150,12 +150,13 @@ h1, h2{
 .artigos-coluna a{
     color: #900;
 }
-.artigos-coluna a:houver{
+.artigos-coluna a:hover{
     text-decoration: underline;
 }
 /*Footer
 -------------------------------*/
 .footer{
-    text-align: center;
-    padding: 20px 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
