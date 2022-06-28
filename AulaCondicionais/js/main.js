@@ -1,7 +1,44 @@
+
+function clicou(){
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>";
+    //console.log(document.getElementsById("agradecimento"));
+    //alert("Obrigado por clicar")
+
+}
+
+function redirecionar(){
+    //window.open("https://brasil.un.org/pt-br/sdgs");
+    window.location.href = "https://unccelearn.org/?lang=pt_br";
+}
+
+function trocar(elemento){
+    //document.getElementById("mousemove").innerHTML = "Obrigado por passar o mouse";
+    elemento.innerHTML = "Obrigado por passar o mouse";
+    //alert("trocar texto");
+}
+
+function voltar(elemento){
+    //document.getElementById("mousemove").innerHTML = "Passe o mouse aqui";
+    elemento.innerHTML = "Passe o mouse aqui";
+}
+
+function load(){
+    alert("página carregada");
+
+}
+
+function funcaoChange(elemento){
+    console.log(elemento.value)
+}
+/*
 function soma(n1,n2){
     return n1 + n2;
 }
+*/
 
+
+/* start Função Validar Idade
+______________________________________
 
 function validaIdade(idade){
     var validar;
@@ -15,6 +52,10 @@ function validaIdade(idade){
 
 var idade =prompt("Qual sua idade");
 console.log(validaIdade(idade));
+
+End Função Validar Idade
+_____________________________________*/
+
 
 /* start Função Soma
 ______________________________________
