@@ -1,6 +1,15 @@
+<h1 align="center">
+  <img src="Aula01/assets/banner.to.readme.fdweb.png" alt="logo" >
+
+</h1>
+
+<br>
+
+
 # Mod03FundWeb
-Para inserção de atividades módulo - 03 Fundamentos Web
-#Views
+Para inserção de atividades módulo - 03 Fundamentos da Web e estudos voltados ao Front-End
+
+## :computer: Abaixo é possivel clicar e visualizar cada projeto/site desenvolvido durante meus estudos:
 
 [1º site html puro](https://htmlpreview.github.io/?https://raw.githubusercontent.com/vntsmatos/Mod03FundWeb/main/Aula01/index.html)    
 [2º site html - ideia de curriculo](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Aula02/index.html)    
