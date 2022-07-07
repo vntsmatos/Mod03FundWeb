@@ -68,7 +68,7 @@ header nav a:hover{
 
 .botao{
     background-color: rgba(0,0,0,.50);
-    border-radius: 5px;
+    border: none;
     color: white;
 
     padding:15px 30px;
