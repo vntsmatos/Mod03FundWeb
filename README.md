@@ -28,6 +28,6 @@ Para inserção de atividades módulo - 03 Fundamentos da Web e estudos voltados
 [15º site Desafio CSS](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Exercicio/index.html)     
 [16º site Projeto01 HTML & CSS](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/Projeto01/index.html)     
 [17º site Recriação Instagram](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/RecriacaoInstagram/index.html)      
-[18º site Recriação NETFLIX)](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/CloneFlix/index.html)     
+[18º site Recriação NETFLIX](https://htmlpreview.github.io/?https://github.com/vntsmatos/Mod03FundWeb/blob/main/CloneFlix/index.html)     
 [19º site (Em elaboracao...)]   
 [20º site (Em elaboracao...)]   
